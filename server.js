@@ -9,16 +9,16 @@ app.use(express.json());
 
 const posts = [
     {
-        username: "Erwin",
-        title: "Post 1"
+        username: "superadmin1",
+        title: "Response Post 1"
     },
     {
-        username: "Jasmin",
-        title: "Post 2"
+        username: "edl_tester_2",
+        title: "Response Post 2"
     },
     {
-        username: "Janine",
-        title: "Post 2"
+        username: "edl_tester_3",
+        title: "Response Post 3"
     },
 ]
 
